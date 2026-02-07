@@ -1,1 +1,1 @@
-| ![Hello](app/Images/hello.png) |
+| ![Hello](app/images/hello.png) |
